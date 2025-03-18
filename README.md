@@ -2,7 +2,7 @@
 
 <img align="right" style="width:200px; height:auto;" src="/public/images/favicon.ico">
 
-A college project in Node JS using Express and MongoDB.<br>
+A college project in Node JS using Express and "MongoDB".<br>
 Description: a basic "travel agency" website with permission management and two user types.
 
 <details>
